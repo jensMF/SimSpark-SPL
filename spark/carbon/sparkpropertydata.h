@@ -25,6 +25,7 @@
  \brief Contains SparkProperty::Data and derived classes as well as SparkProperty::EDataType enum.
 */
 #include <QString>
+#include <limits>
 
 #include <salt/vector.h>
 #include <salt/bounds.h>
